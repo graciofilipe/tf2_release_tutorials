@@ -1,2 +1,4 @@
 .venv
 .idea
+*.h5
+training_*
